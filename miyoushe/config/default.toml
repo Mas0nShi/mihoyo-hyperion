@@ -1,0 +1,34 @@
+[account]
+
+[account.cookies]
+stuid = ""
+stoken = ""
+mid = ""
+
+[general]
+host = "https://bbs-api.miyoushe.com"
+
+[headers]
+user-agent = "okhttp/4.9.3"
+[headers.x-rpc]
+app_id = "bll8iq97cem8"
+client_type = "2"
+device_id = "47d6f668fba5b9f8"
+device_fp = "38d7ed91a2f53"
+device_name = "HUAWEI+P40+Pro"
+device_model = "HUAWEI+P40+Pro"
+sys_version = "10"
+game_biz = "bbs_cn"
+app_version = "2.46.1"
+sdk_version = "1.4.2.0"
+aigis = ""
+
+# 社区代号
+[general.gids]
+bh3 = 1              # 崩坏3
+ys = 2               # 原神
+bhxy2 = 3            # 崩坏学园2
+wdsjb = 4            # 未定事件簿
+dbs = 5              # 大别墅
+bhxqtd = 6           # 崩坏: 星穹铁道
+jq0 = 8              # 绝区零
